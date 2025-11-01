@@ -1,4 +1,4 @@
-🛒 RetailRoot (Spring Boot)
+**🛒 RetailRoot (Spring Boot)**
 
 This is a full-stack E-Commerce Web Application built using Spring Boot on the backend. It provides core e-commerce features such as product browsing, cart management, order placement, and user authentication.
 
