@@ -83,7 +83,7 @@ E-Commerce-SpringBoot/
 │   └── data.sql (optional)
 │
 ├── pom.xml                  # Maven Dependencies
-└── README.md
+└── README.md 
 
 🚀 How to Run the Project
 Prerequisites
