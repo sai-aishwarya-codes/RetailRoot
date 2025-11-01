@@ -68,22 +68,8 @@ Service Layer       → Business logic
 Repository Layer    → DB operations using JPA
 Entity Layer        → Data models mapped to DB tables
 
-📦 Project Structure
-E-Commerce-SpringBoot/
-│
-├── src/main/java/com/app/
-│   ├── controller/        # API Controllers
-│   ├── service/            # Business Logic
-│   ├── repository/         # JPA Repositories
-│   ├── entity/             # Models / Entities
-│   └── config/             # Security/Config Files
-│
-├── src/main/resources/
-│   ├── application.properties
-│   └── data.sql (optional)
-│
-├── pom.xml                  # Maven Dependencies
-└── README.md 
+<img width="1055" height="657" alt="image" src="https://github.com/user-attachments/assets/c3759de8-ea15-41be-ba2a-d509f2306cd4" />
+
 
 🚀 How to Run the Project
 Prerequisites
